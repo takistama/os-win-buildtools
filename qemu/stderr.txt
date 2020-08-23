@@ -1,0 +1,2 @@
+WARNING: failed to find acpi-dsdt.aml
+qemu: could not load kernel 'grenselos/boot/kernel.bin': No such file or directory
